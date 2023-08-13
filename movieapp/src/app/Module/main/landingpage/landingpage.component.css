@@ -1,0 +1,18 @@
+#nav{
+  background-color: black;
+}
+
+
+body{
+    background: black;
+}
+.btn{
+  border: 1px solid #fff;
+}
+.btn:hover{
+  background: white;
+  color: black;
+}
+mat-icon{
+  color: #fff;
+}
